@@ -16,6 +16,7 @@ body {
     color: $grayishBlue;
     line-height: 1.3;
     min-height: 200vh;
+    overflow-x: hidden;
 
     &.nonscroll {
         overflow: hidden;
