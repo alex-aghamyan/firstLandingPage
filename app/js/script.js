@@ -3,8 +3,8 @@ const header = document.querySelector('.header');
 const overlay = document.querySelector('.overlay');
 const fadeElems = document.querySelectorAll('.has-fade');
 const body = document.querySelector('body');
-const btnRequest = document.querySelectorAll('.button');
 const popup = document.querySelector('.popup');
+const btnRequest = document.querySelectorAll('.button');
 const popupClose = document.querySelector('.popup__close');
 
 
